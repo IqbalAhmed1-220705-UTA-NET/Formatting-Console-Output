@@ -15,7 +15,6 @@ public class FormattingConsoleOutput {
 		System.out.println("\t \t \t \t \t \t \t \t O'Malley says, Practice makes perfect!");
 		System.out.println("\t \t \t \t Now, \\\\\\\\  without further adeiu, a poem inside a frame:");
 		System.out.println("");
-		System.out.println("");
 		System.out.println("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");
 		System.out.println("@");
 		System.out.println("@ \t \t \t \t r-p-o-p-h-e-s-s-a-g-r");
